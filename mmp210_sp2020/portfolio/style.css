@@ -1,0 +1,32 @@
+img {
+	width: 400px;
+	height: 550px;
+}
+
+.wide {
+	width: 650px;
+}
+
+.wideDigital {
+	width: 800px;
+}
+
+.center, h1 {
+	text-align: center;
+}
+
+.nav {
+	width: 49%;
+	float: right;
+	text-align: center;
+}
+
+h1, h3 {
+	font-family: "Verdana";
+	text-shadow: 1px 1px 1px black
+}
+
+a {
+	text-decoration: none;
+	color: purple;
+}
